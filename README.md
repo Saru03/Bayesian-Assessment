@@ -14,6 +14,6 @@ Summary:The  quick  brown  fox  jumps  over  the  lazy  dog  is  a  popular  say
  However ,  there  is  some  debate  on  the  meaning  and  origin  of  the  phrase  " The  quick  brown  fox  jumps  over  the  lazy  dog ."  Some  sources  say  that  the  saying  was  originally  from  French  and  is  therefore  considered  to  have  been  derived  from  French  language .  However ,  others  argue  that  it  originated  in  England  and  was  used  as  a  metaphor  for  quickly  making  decisions  without  taking  time  to  think  about  what  one  is  doing .
  Overall ,  the  quick  brown  fox  jumps  over  the  lazy  dog  is  a  popular  expression  that  has  become  widely  known  and  used  by  people  across  different  cultures  and  times .  It  serves  as  a  reminder  of  the  importance  of  being  aware  of  your  surroundings  before  making  any  decision  or  action ,  even  if  it  may  seem  like  an  obvious  choice  at  first  glance .
 
-##Video Attachment
+## Video Attachment
 https://github.com/user-attachments/assets/4eded2dc-7b73-42f1-b02e-aad25dbf371a
 
