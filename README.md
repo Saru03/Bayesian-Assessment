@@ -5,7 +5,7 @@ Install Ollama https://ollama.com/download
 After setting up Ollama, pull the model in command prompt by using the command - ollama pull qwen2:0.5b
 ## Run:
 Run the summarize.py on files and text.
-##Output
+## Output
 D:\bay>python summarize.py --input_file=book.txt
 Summary:The  story  of  a  little  shepherd  boy  who  was  afraid  to  call  out  for  help  on  his  sheep  grazing  near ,  caused  a  misunderstanding  between  villagers  and  him .  The  vill ager  became  upset  and  angry  over  it .  It  took  them  a  week  to  get  to  know  that  he  was  lying  when  they  saw  the  wolf  in  the  hill side  while  grazing  their  sheep .  They  were  not  able  to  come  help  him .  Later ,  the  boy  realized  that  he  lied  again  about  the  wolf .  He  promised  never  to  do  this  again .  The  moral  of  the  story  is  " Once  a  liar ,  always  a  liar ."  The  moral  of  the  boy  who  cried  wolf  story  is  that  no  one  believes  a  liar  even  when  they  are  telling  the  truth .  Every  child  should  know  this  story  and  shall  always  remember  the  moral  throughout  their  lives .
 
